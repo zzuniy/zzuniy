@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Jueun%20Heo&fontAlign=50&fontSize=52&desc=CS%20Student%20(2nd%20year)%20%E2%80%A2%20Planning%20%E2%86%92%20Build%20%E2%86%92%20Ship&descAlign=50&descAlignY=72&color=0:0B0B0F,100:1A1A22&fontColor=7DE3FF" />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&text=Jueun%20Heo&fontAlign=50&fontSize=50&desc=CS%20Student%20(2nd%20year)%20%E2%80%A2%20Planning%20%E2%86%92%20Build%20%E2%86%92%20Ship&descAlign=50&descAlignY=78&color=0:0B0B0F,100:0B0B0F&fontColor=7DE3FF" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Jueun%20Heo&fontAlign=50&fontSize=52&desc=CS%20Student%20(2nd%20year)%20%E2%80%A2%20Planning%20%E2%86%92%20Build%20%E2%86%92%20Ship&descAlign=50&descAlignY=72&color=0:F5F5F7,100:E7E7EE&fontColor=2BB7DA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Jueun%20Heo&fontAlign=50&fontSize=52&desc=CS%20Student%20(2nd%20year)%20%E2%80%A2%20Planning%20%E2%86%92%20Build%20%E2%86%92%20Ship&descAlign=50&descAlignY=72&color=0:F6E7D8,100:A67C52&fontColor=3B2F2A" />
+
 
 <br/>
 
