@@ -1,9 +1,6 @@
-<!-- Profile README for Jueun Heo | 2nd-year CS student -->
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=130&text=Jueun%20Heo&fontAlign=50&fontSize=44&desc=2nd-year%20CS%20student%20|%20Building%20calm%20and%20useful%20web%20services&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=130&text=Jueun%20Heo&fontAlign=50&fontSize=44&desc=CS%20student%20|%20I%20turn%20ideas%20into%20working%20products&descAlign=50&descAlignY=75" />
 
 <br/>
 
@@ -16,62 +13,45 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Java-17-2F74C0?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-Mapper-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/MariaDB-Database-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/React-SPA-61DAFB?style=flat-square&logo=react&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Servlet%2FJSP-Web-555555?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Interested%20in-Product%20Planning-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Interested%20in-AI%20%26%20Automation-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Building-Web%20Services-111111?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🌿 About me
-- 🎓 **2nd-year Computer Science student**
-- 🧩 I like making complex requirements feel **simple and clear** (CRUD · Auth · Admin)
-- ✨ I care about **calm UX** and **readable code**
-- 🚀 Currently growing as a **web developer** (Java/Spring + React)
+## 🌿 About
+I’m **Jueun**, a 2nd-year CS student.  
+I’m interested in **planning, building, and shipping** — not just writing code.
+
+- 🧭 I like clarifying *“what problem are we solving?”* and turning it into a real flow  
+- 🧩 I’m good at seeing **how to realize an idea** (MVP → features → iteration)  
+- 🤖 I’m exploring AI (still learning), especially how it can help people and automate tasks  
+- ✨ I value **simple UX**, clear structure, and honest documentation
 
 ---
 
-## 🧰 What I use (real projects)
-**Backend**
-- Java, Spring MVC, Servlet/JSP  
-- Session-based auth flows (Filter/Interceptor), MVC layering
-
-**DB**
-- MariaDB, JDBC, MyBatis  
-- Practical SQL for CRUD, joins, pagination patterns
-
-**Frontend**
-- React SPA, routing, component-driven UI  
-- Styled-Components, external API integration (e.g., maps)
-
-**Tools**
-- Git/GitHub (branching/merging/conflicts), IntelliJ, Tomcat, Vercel
+## 🔎 What I’m focusing on
+- **Product thinking**: user → problem → solution → MVP → iteration  
+- **Implementation**: making ideas *work* (CRUD, auth flows, deployment)  
+- **AI curiosity**: experimenting with small features, prompts, and automation
 
 ---
 
-## 📌 Featured Projects (pin 3–6 repos on your profile)
-> Put your best repos here after you pin them.
-- **Spring Board CRUD** — posts + auth/session + admin flows  
-- **React Web App** — SPA routing + UI + API integration  
-- **JSP/Servlet Board CRUD** — web fundamentals + DB + file upload patterns  
+## 🧰 Tools I use (as means, not the goal)
+- **Web**: Java (Spring MVC/Servlet), React  
+- **DB**: MariaDB, MyBatis/JDBC  
+- **Workflow**: Git/GitHub, basic deployment (Tomcat/Vercel)
 
 ---
 
-## 📈 Stats (keep it clean)
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zzuniy&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzuniy&layout=compact" />
-</div>
+## 📌 Projects
+> I’m still building — I pin a few repos that best represent my direction.
 
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=zzuniy" />
-</div>
+- **Web service projects** (planning → building → iterating)
+- **Team projects** (collaboration, structure, delivery)
+- **Small experiments** (AI/automation ideas, prototypes)
 
 ---
 
@@ -81,7 +61,6 @@
 
 <div align="center">
 
-**Thanks for visiting.**  
-*Let’s build something useful — and make it feel warm.* ☕️
+*I like building things that move from “idea” to “real.”* ☕️
 
 </div>
