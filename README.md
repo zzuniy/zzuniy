@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jueun%20Heo&fontAlign=50&fontSize=56&desc=To%20be%20remembered%20as%20a%20helpful%20person&descAlign=50&descAlignY=52&color=0:F6E7D8,100:A67C52&fontColor=2A1E18&animation=fadeIn&textBg=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F6E7D8,100:A67C52&text=Jueun%20Heo&fontColor=2A1E18&fontSize=60&fontAlign=50&fontAlignY=38&desc=To%20be%20reme
 
 
 <br/>
