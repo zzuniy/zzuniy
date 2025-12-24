@@ -65,12 +65,12 @@
 
 ## 📈 Stats (keep it clean)
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zzuniy&show_icons=true&hide_title=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzuniy&layout=compact" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" />
+  <img height="170" src="https://streak-stats.demolab.com?user=zzuniy" />
 </div>
 
 ---
