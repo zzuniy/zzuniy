@@ -52,19 +52,11 @@ Currently interested in: **SDGs, climate challenges, ESG**, and how software + A
 
 ---
 
-## Projects
-Pinned repos will represent:
-- web services (planning + implementation)
-- team projects (collaboration + delivery)
-- small experiments (AI/automation prototypes)
-
----
-
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/zzuniy  
 - Email: heojueun050930@gmail.com
 
-
+---
 <div align="center">
 
 *I like building things that move from “idea” to “real.”* ☕️
